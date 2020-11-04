@@ -1,0 +1,22 @@
+body {
+    width: 100%;
+    padding: 0, 30px;
+    font-family: 'Georgia', serif;
+    font-size: 14pt;
+    background-image: url(fon.jpg);
+   
+    
+}
+.container {
+    width: 70%;
+    margin: auto;
+    padding: 10px, 50px;
+    text-align: center;
+    border: 3px dotted #4086e6; 
+    border-radius: 10px;
+    background: #a5a5a7;
+    opacity: 0.7;
+}
+h1, h2, h3 {
+    text-align: center;
+}
